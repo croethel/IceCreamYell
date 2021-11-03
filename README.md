@@ -11,5 +11,11 @@ Examine this data set. Load it into a python script and try to run some stat mea
 
 What interesting things can you discover about this data?
 
+Things to Consider before starting
+- How would you read it into memory using python?
+- What data structure would you use to handle the data?
+- What statistical measures might be helpful in understanding what the data is?
+- Can you see any relationships between the various columns?
+- Do test scores and gender indicate anything about what kind of ice cream a person favors?
 
 You might wish to use some functions from https://docs.python.org/3/library/statistics.html
