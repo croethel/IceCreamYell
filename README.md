@@ -18,4 +18,6 @@ Things to Consider before starting
 - Can you see any relationships between the various columns?
 - Do test scores and gender indicate anything about what kind of ice cream a person favors?
 
+*Finally*: What can you do to present / communicate what you discovered about this dataset?
+
 You might wish to use some functions from https://docs.python.org/3/library/statistics.html
